@@ -52,7 +52,6 @@ Add the following libraries to your requirements.txt file:
 
 ```bash
 jupyterlab
-numpy
 pandas
 pyarrow
 matplotlib
