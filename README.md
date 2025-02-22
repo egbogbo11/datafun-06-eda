@@ -1,8 +1,8 @@
 # datafun-06-eda
 
 ## Purpose
-The purpose of Project 6 is to create our own explortatory data analysis but using our own dataset to explore data analysis tools like pandas, seaborn, matpotlib using Jupyter. The dataset that will be analyzed in this project is a seaborn dataset about exercise. 
-https://github.com/mwaskom/seaborn-data/blob/master/exercise.csv
+The purpose of Project 6 is to create our own explortatory data analysis but using our own dataset to explore data analysis tools like pandas, seaborn, matpotlib using Jupyter. The dataset that will be analyzed in this project is a seaborn dataset about restaurants. 
+https://github.com/mwaskom/seaborn-data/blob/master/tips.csv
 
 # Setting up Project 6
 
